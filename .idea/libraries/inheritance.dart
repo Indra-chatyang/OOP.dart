@@ -20,7 +20,7 @@ void main()
   animal a1 = animal();
   a1.legs();
   a1.feature();
-
+print("indra pokhrel");
   humans h1 = humans();
   h1.legs();
   h1.feature();
